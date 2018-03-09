@@ -1,0 +1,11 @@
+---
+students:
+  - details:
+    name: Nani
+    phone: 9948
+  - details:
+    name: Vardh
+    phone: 8978
+  - details:
+    name: test2
+    phone: 7989  

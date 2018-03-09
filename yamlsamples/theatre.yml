@@ -1,0 +1,30 @@
+---
+# This is a class room example
+theatres:
+  - name: Sandhya # Rtc cross roads
+    showtimes:
+      - 11:00
+      - 14:00
+    movies:
+      - A
+    price: 100
+    active: True
+  - name: PVR-Central
+    showtimes:
+      - 11:00
+      - 12:00
+      - 14:00
+    movies:
+      - A
+      - B
+      - C
+    price: 200
+    active: True
+  - name: Gokul
+    showtimes:
+      - 11:00
+      - 14:00
+    movies:
+      - C
+    price: 90
+    active: False  
